@@ -1,0 +1,13 @@
+org/egov/infra/persist/consumer/PersisterBatchListnerTest.class
+org/egov/infra/persist/consumer/PersisterBatchConsumerConfigTest.class
+org/egov/infra/persist/consumer/PersisterProducerConfigTest.class
+org/egov/infra/persist/web/contract/JsonMapTest.class
+org/egov/infra/persist/utils/UtilsTest.class
+org/egov/infra/persist/web/contract/MappingTest.class
+org/egov/infra/persist/web/contract/TypeEnumTest.class
+org/egov/infra/persist/web/contract/TopicMapTest.class
+org/egov/infra/persist/web/contract/QueryMapTest.class
+org/egov/infra/persist/consumer/PersisterMessageListenerTest.class
+org/egov/infra/persist/web/contract/ServiceMapsTest.class
+org/egov/infra/persist/service/PersistServiceTest.class
+org/egov/infra/persist/repository/PersistRepositoryTest.class

@@ -1,0 +1,14 @@
+/Users/arindamgupta/a_dir/developer_guide/2025_dev_guide/DIGIT-DEV-ASSIGNMENT/egov-persister/src/test/java/org/egov/infra/persist/consumer/PersisterProducerConfigTest.java
+/Users/arindamgupta/a_dir/developer_guide/2025_dev_guide/DIGIT-DEV-ASSIGNMENT/egov-persister/src/test/java/org/egov/infra/persist/web/contract/TypeEnumTest.java
+/Users/arindamgupta/a_dir/developer_guide/2025_dev_guide/DIGIT-DEV-ASSIGNMENT/egov-persister/src/test/java/org/egov/infra/persist/consumer/PersisterBatchConsumerConfigTest.java
+/Users/arindamgupta/a_dir/developer_guide/2025_dev_guide/DIGIT-DEV-ASSIGNMENT/egov-persister/src/test/java/org/egov/infra/persist/consumer/StoppingErrorHandlerTest.java
+/Users/arindamgupta/a_dir/developer_guide/2025_dev_guide/DIGIT-DEV-ASSIGNMENT/egov-persister/src/test/java/org/egov/infra/persist/web/contract/TopicMapTest.java
+/Users/arindamgupta/a_dir/developer_guide/2025_dev_guide/DIGIT-DEV-ASSIGNMENT/egov-persister/src/test/java/org/egov/infra/persist/web/contract/JsonMapTest.java
+/Users/arindamgupta/a_dir/developer_guide/2025_dev_guide/DIGIT-DEV-ASSIGNMENT/egov-persister/src/test/java/org/egov/infra/persist/utils/UtilsTest.java
+/Users/arindamgupta/a_dir/developer_guide/2025_dev_guide/DIGIT-DEV-ASSIGNMENT/egov-persister/src/test/java/org/egov/infra/persist/web/contract/MappingTest.java
+/Users/arindamgupta/a_dir/developer_guide/2025_dev_guide/DIGIT-DEV-ASSIGNMENT/egov-persister/src/test/java/org/egov/infra/persist/web/contract/QueryMapTest.java
+/Users/arindamgupta/a_dir/developer_guide/2025_dev_guide/DIGIT-DEV-ASSIGNMENT/egov-persister/src/test/java/org/egov/infra/persist/consumer/PersisterBatchListnerTest.java
+/Users/arindamgupta/a_dir/developer_guide/2025_dev_guide/DIGIT-DEV-ASSIGNMENT/egov-persister/src/test/java/org/egov/infra/persist/consumer/PersisterMessageListenerTest.java
+/Users/arindamgupta/a_dir/developer_guide/2025_dev_guide/DIGIT-DEV-ASSIGNMENT/egov-persister/src/test/java/org/egov/infra/persist/repository/PersistRepositoryTest.java
+/Users/arindamgupta/a_dir/developer_guide/2025_dev_guide/DIGIT-DEV-ASSIGNMENT/egov-persister/src/test/java/org/egov/infra/persist/web/contract/ServiceMapsTest.java
+/Users/arindamgupta/a_dir/developer_guide/2025_dev_guide/DIGIT-DEV-ASSIGNMENT/egov-persister/src/test/java/org/egov/infra/persist/service/PersistServiceTest.java

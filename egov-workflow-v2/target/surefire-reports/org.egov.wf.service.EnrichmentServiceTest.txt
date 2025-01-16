@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.egov.wf.service.EnrichmentServiceTest
+-------------------------------------------------------------------------------
+Tests run: 75, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.186 s -- in org.egov.wf.service.EnrichmentServiceTest
